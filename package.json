@@ -1,0 +1,27 @@
+{
+  "name": "get-single-obj-prop",
+  "version": "0.0.0",
+  "description": "Quickly navigate to a single property in a complex object",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlmungazi/get-single-obj-prop.git"
+  },
+  "keywords": [
+    "object",
+    "find",
+    "navigate"
+  ],
+  "author": "Carl Mungazi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/carlmungazi/get-single-obj-prop/issues"
+  },
+  "homepage": "https://github.com/carlmungazi/get-single-obj-prop#readme",
+  "devDependencies": {
+    "ava": "1.0.0-rc.2"
+  }
+}
